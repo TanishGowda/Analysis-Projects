@@ -13,3 +13,10 @@ Tasks Completed:
 - Cleaned the 3 Datasets
 - Merged the 3 Datasets
 - Analyzed the data through Visualization using Matplotlib and Seaborn
+
+### Project 3: Sentiment Analysis
+
+Tasks Completed:
+- Sentiment Analysis
+- Created a WordCloud to show the importance of each word (Frequency Based)
+- Created a CountPlot for showing the dominant sentiment (Positive, Negative, Neutral)
